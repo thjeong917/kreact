@@ -3,7 +3,7 @@
 ![screenshot - North Korea](./images/screenshot1.png)
 
 Graduation Project on Hanyang University Computer Science Department, B.S.
-with [Taehwa Jung](https://github.com/thjeong917) (2018)
+with [Taehwa Jeong](https://github.com/thjeong917) (2018)
 
 
 
